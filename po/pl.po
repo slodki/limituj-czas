@@ -1,0 +1,23 @@
+#: /home/slodki/src/ubuntu/limituj-czas/limituj-czas:44
+msgid ", remaining $((rem=limit-new)) minute(s)"
+msgstr ""
+
+#: /home/slodki/src/ubuntu/limituj-czas/limituj-czas:64
+msgid "Sorry, your time limit ($limit minute(s)) has run out!"
+msgstr "Niestety..."
+
+#: /home/slodki/src/ubuntu/limituj-czas/limituj-czas:51
+msgid "Time limiting, $(printf '%(%A)T') $time"
+msgstr ""
+
+#: /home/slodki/src/ubuntu/limituj-czas/limituj-czas:61
+msgid "You have only $rem minute(s) today!"
+msgstr ""
+
+#: /home/slodki/src/ubuntu/limituj-czas/limituj-czas:58
+msgid "Your time limit for today is $limit minute(s)."
+msgstr ""
+
+#: /home/slodki/src/ubuntu/limituj-czas/limituj-czas:44
+msgid "limit ${limit:-none}, used $new minute(s) (from $from to $time)"
+msgstr ""
